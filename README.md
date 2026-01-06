@@ -1,5 +1,13 @@
-# pc-build-main-pc
-🖥️ PC Build – Windows 11 Desktop (MAIN-PC)
+# PC Build – MAIN-PC (Windows 11 Pro Hyper-V Host)
+
+Custom-built workstation designed for virtualization, IT labs, and daily productivity.
+
+This document covers:
+- Hardware selection and rationale
+- Physical build process
+- BIOS and OS configuration
+- Post-build validation
+
 Purpose
 
 This repository documents the research, assembly, configuration, and validation of my primary Windows 11 desktop (MAIN-PC).
