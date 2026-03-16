@@ -1,7 +1,13 @@
 # PC Build - MAIN-PC (Windows 11 Pro Hyper-V Host)
 
 This repository documents the research, assembly, configuration, and validation of my primary Windows 11 desktop (`MAIN-PC`) built for virtualization and IT lab work.
-Last reviewed: February 13, 2026
+Last reviewed: March 16, 2026
+
+## What This Proves
+- Endpoint hardware planning and compatibility validation
+- BIOS/UEFI configuration for virtualization readiness
+- Windows 11 provisioning and post-build validation
+- Practical ownership of a workstation used for Hyper-V lab workloads
 
 ## Project Objectives
 - Build a reliable daily-use workstation.
