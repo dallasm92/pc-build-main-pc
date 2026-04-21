@@ -9,6 +9,15 @@ Last reviewed: April 13, 2026
 - Windows 11 provisioning and post-build validation
 - Practical ownership of a workstation used for Hyper-V lab workloads
 
+## Hiring Manager Quick View
+
+| Review area | Evidence |
+|---|---|
+| Endpoint lifecycle | Hardware planning, assembly, OS install, driver/update workflow |
+| Virtualization readiness | BIOS/UEFI virtualization settings and Hyper-V validation |
+| Support mindset | Post-build checks, storage role separation, and future maintenance planning |
+| Portfolio relationship | This workstation is the host used for the Windows Server, AD, and Windows networking labs |
+
 ## Project Objectives
 - Build a reliable daily-use workstation.
 - Prioritize virtualization performance for Hyper-V labs.
@@ -97,7 +106,7 @@ Why this matters:
 - BIOS settings are critical for successful virtualization workflows.
 - Structured post-build validation improves long-term reliability.
 
-## Future Improvements
+## Improvement Backlog
 - Expand VM-dedicated storage as lab scope grows
 - Add host monitoring/logging baseline
 - Strengthen backup and recovery testing for VM workloads
