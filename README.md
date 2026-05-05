@@ -3,6 +3,9 @@
 This repository documents the research, assembly, configuration, and validation of my primary Windows 11 desktop (`MAIN-PC`) built for virtualization and IT lab work.
 Last reviewed: April 13, 2026
 
+Social preview asset:
+- [assets/social-preview.png](assets/social-preview.png)
+
 ## What This Proves
 - Endpoint hardware planning and compatibility validation
 - BIOS/UEFI configuration for virtualization readiness
